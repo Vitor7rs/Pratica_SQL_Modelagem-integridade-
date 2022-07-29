@@ -4,8 +4,6 @@
 CREATE DATABASE praticabank;
 
 -- TABLES --
-
-
 CREATE TABLE states (
 	id SERIAL PRIMARY KEY NOT NULL,
 	name TEXT NOT NULL
